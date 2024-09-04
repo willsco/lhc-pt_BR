@@ -9097,7 +9097,7 @@
     </message>
     <message>
       <source>Online profile</source>
-      <translation>online perfil</translation>
+      <translation>Perfil online</translation>
     </message>
     <message>
       <source>Previous chats</source>
