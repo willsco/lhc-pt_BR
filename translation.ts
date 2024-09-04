@@ -4533,7 +4533,7 @@
     </message>
     <message>
       <source>Left to delete</source>
-      <translation>Esquerda para excluir</translation>
+      <translation>Restam para excluir</translation>
     </message>
     <message>
       <source>Start deletion</source>
@@ -4541,15 +4541,15 @@
     </message>
     <message>
       <source>records will be deleted.</source>
-      <translation>os registros serão excluídos.</translation>
+      <translation registros serão excluídos.</translation>
     </message>
     <message>
       <source>Disable</source>
-      <translation>desabilitar</translation>
+      <translation>Desabilitar</translation>
     </message>
     <message>
       <source>Enabled</source>
-      <translation>habilitado</translation>
+      <translation>Habilitado</translation>
     </message>
     <message>
       <source>Assign selected department to canned messages</source>
@@ -4557,7 +4557,7 @@
     </message>
     <message>
       <source>Remove selected department from canned messages</source>
-      <translation>remover selecionado setor de mensagens predefinidas</translation>
+      <translation>Remover o departamento selecionado das mensagens pré-definidas</translation>
     </message>
     <message>
       <source>Save</source>
@@ -12387,7 +12387,7 @@
     </message>
     <message>
       <source>Online hours</source>
-      <translation>online horas</translation>
+      <translation>Tempo online</translation>
     </message>
     <message>
       <source>Operator online hours</source>
@@ -13423,7 +13423,7 @@
     </message>
     <message>
       <source>Update information</source>
-      <translation>Informações de atualização</translation>
+      <translation>Informações sobre atualização</translation>
     </message>
     <message>
       <source>Pro active chat invitations</source>
@@ -13511,7 +13511,7 @@
     </message>
     <message>
       <source>Online hours</source>
-      <translation>online horas</translation>
+      <translation>Tempo online</translation>
     </message>
     <message>
       <source>Advanced</source>
@@ -13543,7 +13543,7 @@
     </message>
     <message>
       <source>Mail conversation</source>
-      <translation>Conversa por correio eletrônico</translation>
+      <translation>Conversa por E-mail</translation>
     </message>
     <message>
       <source>Speech</source>
@@ -15090,7 +15090,7 @@
     <name>chat/userleftchat</name>
     <message>
       <source>Visitor has left the chat!</source>
-      <translation>Visitante deixou o chat!</translation>
+      <translation>O visitante saiu da conversa!</translation>
     </message>
     <message>
       <source>Visitor</source>
@@ -15141,7 +15141,7 @@
     </message>
     <message>
       <source>Scheduled purge</source>
-      <translation>Purga programada</translation>
+      <translation>Limpeza programada</translation>
     </message>
   </context>
   <context>
@@ -15225,7 +15225,7 @@
     </message>
     <message>
       <source>Till date</source>
-      <translation>Até à data</translation>
+      <translation>Até a data</translation>
     </message>
     <message>
       <source>List chats</source>
@@ -15309,7 +15309,7 @@
     </message>
     <message>
       <source>Mail messages will follow mailbox delete policy</source>
-      <translation>As mensagens de correio seguirão a política de exclusão da caixa de correio</translation>
+      <translation>As mensagens de e-mail seguirão a política de exclusão da caixa de correio</translation>
     </message>
     <message>
       <source>Mail messages will not be deleted on IMAP</source>
@@ -15745,7 +15745,7 @@
     </message>
     <message>
       <source>Default settings</source>
-      <translation>padrão configurações</translation>
+      <translation>Padrão configurações</translation>
     </message>
   </context>
   <context>
@@ -15756,7 +15756,7 @@
     </message>
     <message>
       <source>Clone</source>
-      <translation>Clone</translation>
+      <translation>Duplicar</translation>
     </message>
     <message>
       <source>Brands</source>
@@ -15808,7 +15808,7 @@
     </message>
     <message>
       <source>Department alias</source>
-      <translation>setor pseudônimo</translation>
+      <translation>Pseudônimo do setor</translation>
     </message>
     <message>
       <source>Yes</source>
@@ -15852,11 +15852,11 @@
     </message>
     <message>
       <source>Online operators active chats</source>
-      <translation>online Operadores ativo chats</translation>
+      <translation>Chats ativos dos operadores online</translation>
     </message>
     <message>
       <source>Online operators inactive chats</source>
-      <translation>online chats inativos de operadores</translation>
+      <translation>Chats inativos dos operadores online</translation>
     </message>
     <message>
       <source>Max chats</source>
@@ -15864,11 +15864,11 @@
     </message>
     <message>
       <source>Online operators</source>
-      <translation>online operadores</translation>
+      <translation>Operadores online</translation>
     </message>
     <message>
       <source>Offline operators</source>
-      <translation>desconectado operadores</translation>
+      <translation>Operadores desconectados</translation>
     </message>
     <message>
       <source>Total operators</source>
@@ -15884,7 +15884,7 @@
     </message>
     <message>
       <source>Disabled because there is assigned operators to it!</source>
-      <translation>desabilitado porque há operadores designados para isso!</translation>
+      <translation>Desativado porque há operadores atribuídos!</translation>
     </message>
     <message>
       <source>Themes edit</source>
@@ -15896,7 +15896,7 @@
     </message>
     <message>
       <source>Group chat</source>
-      <translation>Chat do Grupo</translation>
+      <translation>Chat em Grupo</translation>
     </message>
     <message>
       <source>Operator</source>
@@ -17853,11 +17853,11 @@
     </message>
     <message>
       <source>Mail conversation</source>
-      <translation>Conversa por correio eletrônico</translation>
+      <translation>Conversa por E-mail</translation>
     </message>
     <message>
       <source>Mailbox</source>
-      <translation>Caixa de correio</translation>
+      <translation>Caixa de E-mail</translation>
     </message>
     <message>
       <source>Edit</source>
@@ -17869,7 +17869,7 @@
     </message>
     <message>
       <source>Personal Mailbox Rules</source>
-      <translation>Regras da caixa de correio pessoal</translation>
+      <translation>Regras da caixa de E-mail pessoal</translation>
     </message>
     <message>
       <source>Response templates</source>
@@ -17925,7 +17925,7 @@
     </message>
     <message>
       <source>Personal Mailbox Group</source>
-      <translation>Grupo de caixas de correio pessoais</translation>
+      <translation>Grupo de caixas de E-mail pessoais</translation>
     </message>
     <message>
       <source>Response Templates</source>
@@ -18121,7 +18121,7 @@
     </message>
     <message>
       <source>mailed-by</source>
-      <translation>enviado por correio</translation>
+      <translation>enviado por e-mail</translation>
     </message>
     <message>
       <source>This is our response message</source>
@@ -18185,7 +18185,7 @@
     </message>
     <message>
       <source>You are replying to your mailbox. Make sure that it is your intent!</source>
-      <translation>Você está respondendo à sua caixa de correio. Certifique-se de que essa é sua intenção!</translation>
+      <translation>Você está respondendo à sua caixa de e-mail. Certifique-se de que essa é sua intenção!</translation>
     </message>
     <message>
       <source>External e-mail!</source>
@@ -18193,7 +18193,7 @@
     </message>
     <message>
       <source>This is our mailbox e-mail!</source>
-      <translation>Esta é a nossa caixa de correio e-mail!</translation>
+      <translation>Esta é a nossa caixa de e-mails!</translation>
     </message>
     <message>
       <source>Pending response</source>
@@ -18249,7 +18249,7 @@
     </message>
     <message>
       <source>Mailing list</source>
-      <translation>Lista de correio eletrônico</translation>
+      <translation>Lista de distribuição</translation>
     </message>
     <message>
       <source>Mailing recipient</source>
@@ -18264,7 +18264,7 @@
     <name>mailconv/mailconvmb</name>
     <message>
       <source>Choose what mailbox you want to sync</source>
-      <translation>Escolha a caixa de correio que você deseja sincronizar</translation>
+      <translation>Escolha a caixa de e-mail que você deseja sincronizar</translation>
     </message>
     <message>
       <source>Choose where deleted e-mails should be moved</source>
@@ -18331,7 +18331,7 @@
     </message>
     <message>
       <source>From mail</source>
-      <translation>Do correio</translation>
+      <translation>Do e-mail</translation>
     </message>
     <message>
       <source>New</source>
@@ -18363,7 +18363,7 @@
     </message>
     <message>
       <source>Mail is send to one of these mailbox</source>
-      <translation>A correspondência é enviada para uma dessas caixas de correio</translation>
+      <translation>A correspondência é enviada para uma dessas caixas de e-mail</translation>
     </message>
     <message>
       <source>From name</source>
@@ -18383,7 +18383,7 @@
     </message>
     <message>
       <source>Select mail</source>
-      <translation>Selecionar correio</translation>
+      <translation>Selecionar e-mail</translation>
     </message>
   </context>
   <context>
@@ -18552,7 +18552,7 @@
     </message>
     <message>
       <source>When an email takes X mail queue time. Mail is in the pending state longer than X time.</source>
-      <translation>Quando um email leva X tempo de fila de correio. O correio está no estado pendente por mais de X tempo.</translation>
+      <translation>Quando um email leva X tempo de fila de e-mails. O e-mail está no estado pendente por mais de X tempo.</translation>
     </message>
     <message>
       <source>seconds</source>
@@ -18651,11 +18651,11 @@
     </message>
     <message>
       <source>Continuous mail events</source>
-      <translation>Eventos contínuos de correio eletrônico</translation>
+      <translation>Eventos contínuos de e-mail</translation>
     </message>
     <message>
       <source>This is hook event</source>
-      <translation>Este é um evento de gancho</translation>
+      <translation>Este é um evento hook</translation>
     </message>
     <message>
       <source>Event</source>
@@ -18675,7 +18675,7 @@
     </message>
     <message>
       <source>This is continuous mail event</source>
-      <translation>Esse é um evento de correio eletrônico contínuo</translation>
+      <translation>Esse é um evento de e-mail contínuo</translation>
     </message>
     <message>
       <source>Make sure you define some conditions. Only new, active mails are checked against these conditions.</source>
@@ -21026,7 +21026,7 @@
     </message>
     <message>
       <source>Live Helper Chat update information</source>
-      <translation>Informações de atualização do Live Helper Chat</translation>
+      <translation>Informações sobre atualização do Live Helper Chat</translation>
     </message>
   </context>
   <context>
@@ -23298,7 +23298,7 @@
     <name>statistic/onlinehours</name>
     <message>
       <source>Online Hours</source>
-      <translation>Horas online</translation>
+      <translation>Tempo online</translation>
     </message>
   </context>
   <context>
