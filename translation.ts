@@ -4541,7 +4541,7 @@
     </message>
     <message>
       <source>records will be deleted.</source>
-      <translation registros serão excluídos.</translation>
+      <translation>registros serão excluídos.</translation>
     </message>
     <message>
       <source>Disable</source>
