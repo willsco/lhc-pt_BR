@@ -7290,7 +7290,7 @@
     </message>
     <message>
       <source>This chat is closed now. You can close window.</source>
-      <translation>Este Chat está fechado agora. Você pode fechar a janela.</translation>
+      <translation>Este Chat foi finalizado. Você pode fechar a janela.</translation>
     </message>
     <message>
       <source>Your message...</source>
