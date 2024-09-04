@@ -7,7 +7,7 @@
     </message>
     <message>
       <source>How long we should wait before we inform operator about unanswered chat.</source>
-      <translation>Quanto tempo nós devemos esperar antes de informar o operador sobre chat não respondido</translation>
+      <translation>Por quanto tempo devemos esperar antes de informar o operador sobre chat não respondido</translation>
     </message>
     <message>
       <source>How many days voting widget should not be expanded after last show</source>
@@ -19,7 +19,7 @@
     </message>
     <message>
       <source>Use secure cookie, check this if you want to force SSL all the time</source>
-      <translation>Usar cookie de segurança, marque isso se você quiser forçar SSL o tempo todo</translation>
+      <translation>Usar cookie seguro, marque isso se você quiser forçar SSL o tempo todo</translation>
     </message>
     <message>
       <source>Which ip should be allowed to update DB by executing http request, separate by comma?</source>
@@ -35,11 +35,11 @@
     </message>
     <message>
       <source>Should mouse movement be tracked as activity measure, if not checked only basic events would be tracked</source>
-      <translation>Caso o movimento do mouse seja considerado como medição de atividade, se não marcado, apenas os eventos básicos serão rastreados</translation>
+      <translation>Deve-se rastrear o movimento do mouse como medida de atividade? Se não marcado, apenas eventos básicos serão rastreados</translation>
     </message>
     <message>
       <source>Track is user still on site, chat status checks also has to be enabled</source>
-      <translation>Verificar se é usuário ainda presente no site, verificações de status do chat também tem que ser ativado</translation>
+      <translation>Verificar se usuário ainda está presente no site. As verificações de status do chat também precisam ser ativadas ser ativadas</translation>
     </message>
     <message>
       <source>Track online visitors even if there is no online operators</source>
@@ -63,11 +63,11 @@
     </message>
     <message>
       <source>How many days keep records of users footprint.</source>
-      <translation>Quantos dias ficará salvo os registros dos rastros do usuário.</translation>
+      <translation>Quantos dias ficarão salvos os registros de atividade do usuário.</translation>
     </message>
     <message>
       <source>Suggest user to leave a message then user chooses offline department</source>
-      <translation>Sugerir ao usuário para deixar uma mensagem quando este escolher um departamento offline</translation>
+      <translation>Sugerir ao usuário para deixar uma mensagem quando escolher um setor offline</translation>
     </message>
     <message>
       <source>Play sound on invitation to chat.</source>
@@ -79,7 +79,7 @@
     </message>
     <message>
       <source>Between what languages user should be able to switch</source>
-      <translation>Entre quais linguagens o usuário deve ser capaz de alternar</translation>
+      <translation>Entre quais idiomas o usuário deve ser capaz de alternar</translation>
     </message>
     <message>
       <source>Host where NodeJs is running</source>
@@ -87,7 +87,7 @@
     </message>
     <message>
       <source>Location of SocketIO JS library</source>
-      <translation>Local da Biblioteca SocketIO JS</translation>
+      <translation>Local da biblioteca SocketIO JS</translation>
     </message>
     <message>
       <source>Connect to NodeJs in https mode</source>
@@ -115,7 +115,7 @@
     </message>
     <message>
       <source>Should cronjob run departments transfer workflow, even if user leaves a chat</source>
-      <translation>Cronjob deve executar o fluxo de transferência para os departamentos, mesmo se o usuário deixar um chat</translation>
+      <translation>Cronjob deve executar o fluxo de transferência para os setores, mesmo se o usuário deixar um chat</translation>
     </message>
     <message>
       <source>Make default pending chats order from old to new</source>
@@ -215,7 +215,7 @@
     </message>
     <message>
       <source>Ignore users online statuses and use departments online hours</source>
-      <translation>Ignorar o status de usuários online e usar a hora dos departamentos online</translation>
+      <translation>Ignorar o status de usuários online e usar a hora dos setores online</translation>
     </message>
     <message>
       <source>Do not store what visitor is typing</source>
@@ -231,7 +231,7 @@
     </message>
     <message>
       <source>Hide disabled department widget</source>
-      <translation>Ocultar widgets de departamento desativados</translation>
+      <translation>Ocultar widgets de setor desativados</translation>
     </message>
     <message>
       <source>Hide close button in dropdown</source>
@@ -307,7 +307,7 @@
     </message>
     <message>
       <source>How long department availability statistic should be kept? (days)</source>
-      <translation>Por quanto tempo deve ser mantido as estatísticas de departamento? (dias)</translation>
+      <translation>Por quanto tempo deve ser mantido as estatísticas de setor? (dias)</translation>
     </message>
     <message>
       <source>Home page dashboard widgets order</source>
@@ -511,7 +511,7 @@
     </message>
     <message>
       <source>Delete department</source>
-      <translation>Apagar departamento</translation>
+      <translation>Apagar setor</translation>
     </message>
     <message>
       <source>Save &amp; Assign recipients</source>
@@ -597,7 +597,7 @@
     </message>
     <message>
       <source>Please choose atleast one department!</source>
-      <translation>Por gentileza, selecione ao menos um departamento!</translation>
+      <translation>Por gentileza, selecione ao menos um setor!</translation>
     </message>
   </context>
   <context>
@@ -868,7 +868,7 @@
     </message>
     <message>
       <source>Choose department to test</source>
-      <translation>Escolha departamento para testar</translation>
+      <translation>Escolha setor para testar</translation>
     </message>
     <message>
       <source>Download theme</source>
@@ -928,7 +928,7 @@
     </message>
     <message>
       <source>Department group departments does not have any themes assigned to them.</source>
-      <translation>departamento Os departamentos do grupo não têm nenhum tema atribuído a eles.</translation>
+      <translation>setor Os setores do grupo não têm nenhum tema atribuído a eles.</translation>
     </message>
     <message>
       <source>Bubble background color</source>
@@ -1120,7 +1120,7 @@
     </message>
     <message>
       <source>Departments</source>
-      <translation>Departamentos</translation>
+      <translation>Setores</translation>
     </message>
     <message>
       <source>Do not send messages to pending chat if chat is assigned to operator.</source>
@@ -1604,7 +1604,7 @@
     </message>
     <message>
       <source>Text when user starts a chat but department is offline</source>
-      <translation>Texto para quando o usuário inicia um chat mas o departamento está offline</translation>
+      <translation>Texto para quando o usuário inicia um chat mas o setor está offline</translation>
     </message>
     <message>
       <source>Leave a message form text</source>
@@ -1716,7 +1716,7 @@
     </message>
     <message>
       <source>Use different title for department? E.g Location</source>
-      <translation>Usar um título diferente para o departamento? Exp.: localização.</translation>
+      <translation>Usar um título diferente para o setor? Exp.: localização.</translation>
     </message>
     <message>
       <source>Location</source>
@@ -1724,11 +1724,11 @@
     </message>
     <message>
       <source>Additional option before department selection</source>
-      <translation>Opção adicional antes da seleção do departamento</translation>
+      <translation>Opção adicional antes da seleção do setor</translation>
     </message>
     <message>
       <source>Choose department</source>
-      <translation>Escolha um departamento</translation>
+      <translation>Escolha um setor</translation>
     </message>
     <message>
       <source>Button background hover color</source>
@@ -1995,11 +1995,11 @@
     <name>abstract/proactivechatinvitation</name>
     <message>
       <source>If department is online and visitor starts a chat and is waiting for some to accept chat. This will be initial message he will get.</source>
-      <translation>Se o departamento estiver online, o visitante iniciar um chat e estiver aguardando que alguém aceite o chat. Esta será a mensagem inicial que ele receberá.</translation>
+      <translation>Se o setor estiver online, o visitante iniciar um chat e estiver aguardando que alguém aceite o chat. Esta será a mensagem inicial que ele receberá.</translation>
     </message>
     <message>
       <source>If department is offline and visitor starts a chat this message will be send instaed of default welcome message. If this message is empty - welcome message will be send.</source>
-      <translation>Se o departamento estiver desconectado e o visitante iniciar um chat, esta mensagem será enviada com uma mensagem de boas-vindas padrão. Se esta mensagem estiver vazia - será enviada uma mensagem de boas-vindas.</translation>
+      <translation>Se o setor estiver desconectado e o visitante iniciar um chat, esta mensagem será enviada com uma mensagem de boas-vindas padrão. Se esta mensagem estiver vazia - será enviada uma mensagem de boas-vindas.</translation>
     </message>
     <message>
       <source>Internal conversion parameters. Internal conversion is used to track covnersion where final step is done by user executing specific action and letting website to know us it happened.</source>
@@ -2107,7 +2107,7 @@
     </message>
     <message>
       <source>Department</source>
-      <translation>Departamento</translation>
+      <translation>Setor</translation>
     </message>
     <message>
       <source>User</source>
@@ -2227,7 +2227,7 @@
     </message>
     <message>
       <source>Message to visitor if department is offline. Use ||| to separate random messages.</source>
-      <translation>Mensagem para o visitante se departamento for desconectado. Use ||| para separar mensagens aleatórias.</translation>
+      <translation>Mensagem para o visitante se setor for desconectado. Use ||| para separar mensagens aleatórias.</translation>
     </message>
     <message>
       <source>Message to visitor if operator speaks same language as visitor. Use ||| to separate random messages.</source>
@@ -2323,11 +2323,11 @@
     </message>
     <message>
       <source>Department rule to apply</source>
-      <translation>departamento regra a ser aplicada</translation>
+      <translation>setor regra a ser aplicada</translation>
     </message>
     <message>
       <source>To what department transfer chat</source>
-      <translation>Para que departamento chat de transferência</translation>
+      <translation>Para que setor chat de transferência</translation>
     </message>
     <message>
       <source>Expected variable value</source>
@@ -2335,15 +2335,15 @@
     </message>
     <message>
       <source>Destination department by brand role</source>
-      <translation>Destino departamento por função da marca</translation>
+      <translation>Destino setor por função da marca</translation>
     </message>
     <message>
       <source>Change department only if present department role is</source>
-      <translation>Altere departamento somente se a função departamento estiver presente</translation>
+      <translation>Altere setor somente se a função setor estiver presente</translation>
     </message>
     <message>
       <source>Condition is always checked independently of transfer method. Department or Department brand role.</source>
-      <translation>A condição é sempre verificada independentemente do método de transferência. departamento ou departamento função da marca.</translation>
+      <translation>A condição é sempre verificada independentemente do método de transferência. setor ou setor função da marca.</translation>
     </message>
     <message>
       <source>Set chat priority to</source>
@@ -2483,7 +2483,7 @@
     </message>
     <message>
       <source>Lock department. The department will be the one that was set when the invitation was issued.</source>
-      <translation>Bloquear departamento. O endereço departamento será aquele que foi definido quando o convite foi emitido.</translation>
+      <translation>Bloquear setor. O endereço setor será aquele que foi definido quando o convite foi emitido.</translation>
     </message>
     <message>
       <source>Requires phone</source>
@@ -2773,11 +2773,11 @@
     </message>
     <message>
       <source>Department</source>
-      <translation>Departamento</translation>
+      <translation>Setor</translation>
     </message>
     <message>
       <source>Check all departments from selected department group</source>
-      <translation>Verifique todos os departamentos do grupo departamento selecionado</translation>
+      <translation>Verifique todos os setores do grupo setor selecionado</translation>
     </message>
     <message>
       <source>Check</source>
@@ -2785,7 +2785,7 @@
     </message>
     <message>
       <source>Uncheck all departments from selected department group</source>
-      <translation>Desmarque todos os departamentos do grupo departamento selecionado</translation>
+      <translation>Desmarque todos os setores do grupo setor selecionado</translation>
     </message>
     <message>
       <source>Uncheck</source>
@@ -2969,7 +2969,7 @@
     </message>
     <message>
       <source>This change will be applied to all departments that use this canned message</source>
-      <translation>Essa alteração será aplicada a todos os departamentos que usam essa mensagem interna</translation>
+      <translation>Essa alteração será aplicada a todos os setores que usam essa mensagem interna</translation>
     </message>
     <message>
       <source>Messages</source>
@@ -3049,7 +3049,7 @@
     </message>
     <message>
       <source>Default department if visitor does not have assigned one</source>
-      <translation>padrão departamento se o visitante não tiver um atribuído</translation>
+      <translation>padrão setor se o visitante não tiver um atribuído</translation>
     </message>
     <message>
       <source>Name</source>
@@ -3061,7 +3061,7 @@
     </message>
     <message>
       <source>Department, if you do not choose command will be available to all departments.</source>
-      <translation> Departamento, se você não escolher o comando estará disponível para todos os departamentos.</translation>
+      <translation> Setor, se você não escolher o comando estará disponível para todos os setores.</translation>
     </message>
     <message>
       <source>Shortcut, optional</source>
@@ -3129,11 +3129,11 @@
     </message>
     <message>
       <source>Please choose a department!</source>
-      <translation>Por gentileza, escolha um departamento!</translation>
+      <translation>Por gentileza, escolha um setor!</translation>
     </message>
     <message>
       <source>You cannot modify canned messages for the departments you are not assigned to!</source>
-      <translation>Não é possível modificar as mensagens predefinidas dos departamentos aos quais você não está atribuído!</translation>
+      <translation>Não é possível modificar as mensagens predefinidas dos setores aos quais você não está atribuído!</translation>
     </message>
     <message>
       <source>Please enter language name!</source>
@@ -3224,7 +3224,7 @@
     </message>
     <message>
       <source>Choose department group</source>
-      <translation>Escolha departamento group</translation>
+      <translation>Escolha setor group</translation>
     </message>
     <message>
       <source>Any</source>
@@ -3240,7 +3240,7 @@
     </message>
     <message>
       <source>Edit department</source>
-      <translation>Editar departamento</translation>
+      <translation>Editar setor</translation>
     </message>
     <message>
       <source>Edit brand</source>
@@ -3248,11 +3248,11 @@
     </message>
     <message>
       <source>Edit department group</source>
-      <translation>Editar grupo de departamento</translation>
+      <translation>Editar grupo de setor</translation>
     </message>
     <message>
       <source>Edit department limit group</source>
-      <translation>Editar limite de grupo do departamento</translation>
+      <translation>Editar limite de grupo do setor</translation>
     </message>
     <message>
       <source>Name</source>
@@ -3260,7 +3260,7 @@
     </message>
     <message>
       <source>If you enter alias make sure you pass this string as argument for a department. Otherwise argument will be ignored.</source>
-      <translation>Se você inserir um alias, certifique-se de passar essa cadeia de caracteres como argumento para um departamento. Caso contrário, o argumento será ignorado.</translation>
+      <translation>Se você inserir um alias, certifique-se de passar essa cadeia de caracteres como argumento para um setor. Caso contrário, o argumento será ignorado.</translation>
     </message>
     <message>
       <source>Alias for argument. No spaces or slashes.</source>
@@ -3288,7 +3288,7 @@
     </message>
     <message>
       <source>Maximum pending chats, if this limit is reached department becomes offline automatically</source>
-      <translation>Máximo de conversas pendentes, se esse limite for atingido, o departamento fica offline</translation>
+      <translation>Máximo de conversas pendentes, se esse limite for atingido, o setor fica offline</translation>
     </message>
     <message>
       <source>Group limit</source>
@@ -3304,7 +3304,7 @@
     </message>
     <message>
       <source>Priority, used for departments sort</source>
-      <translation>Prioridade, usada na classificação dos departamentos</translation>
+      <translation>Prioridade, usada na classificação dos setores</translation>
     </message>
     <message>
       <source>Automate online hours</source>
@@ -3480,7 +3480,7 @@
     </message>
     <message>
       <source>Send XMPP messages to all department operators</source>
-      <translation>Enviar mensagens XMPP a todos os operadores de departamento</translation>
+      <translation>Enviar mensagens XMPP a todos os operadores de setor</translation>
     </message>
     <message>
       <source>Mail messages</source>
@@ -3520,11 +3520,11 @@
     </message>
     <message>
       <source>E-mail is sent in the following order 1. To e-mail template recipient if filled 2. Department e-mail 3. First system operator</source>
-      <translation>e-mail é enviado na seguinte ordem: 1. Para e-mail modelo destinatário, se preenchido 2. departamento e-mail 3. Primeiro sistema Operador</translation>
+      <translation>e-mail é enviado na seguinte ordem: 1. Para e-mail modelo destinatário, se preenchido 2. setor e-mail 3. Primeiro sistema Operador</translation>
     </message>
     <message>
       <source>To what department chat should be transferred if it is not accepted</source>
-      <translation>Para qual departamento o chat deve ser transferido se não for aceito</translation>
+      <translation>Para qual setor o chat deve ser transferido se não for aceito</translation>
     </message>
     <message>
       <source>Minimum chat priority for transfer to happen.</source>
@@ -3532,15 +3532,15 @@
     </message>
     <message>
       <source>Timeout in seconds before chat is transferred to another department. Minimum 5 seconds.</source>
-      <translation>Tempo limite em segundos antes do chat ser transferido para outro departamento. O mínimo é de 5 segundos.</translation>
+      <translation>Tempo limite em segundos antes do chat ser transferido para outro setor. O mínimo é de 5 segundos.</translation>
     </message>
     <message>
       <source>Transfer immediately to this department if current department has no online operators?</source>
-      <translation>Transferir imediatamente para este departamento se o departamento atual não tiver operadores disponíveis?</translation>
+      <translation>Transferir imediatamente para este setor se o setor atual não tiver operadores disponíveis?</translation>
     </message>
     <message>
       <source>Transfer immediately to this department if it is outside work hour?</source>
-      <translation>Transferir imediatamente para o site departamento se estiver fora do horário de trabalho?</translation>
+      <translation>Transferir imediatamente para o site setor se estiver fora do horário de trabalho?</translation>
     </message>
     <message>
       <source>Reset assigned user on chat transfer?</source>
@@ -3552,15 +3552,15 @@
     </message>
     <message>
       <source>Execute new chat logic again for recipient department?</source>
-      <translation>Executar a nova lógica do chat para o destinatário do departamento?</translation>
+      <translation>Executar a nova lógica do chat para o destinatário do setor?</translation>
     </message>
     <message>
       <source>Execute unanswered chat logic again for recipient department?</source>
-      <translation>Executar lógica de chats não respondidos para o destinatário do departamento?</translation>
+      <translation>Executar lógica de chats não respondidos para o destinatário do setor?</translation>
     </message>
     <message>
       <source>Based on selected department these products will be shown</source>
-      <translation>Com base no departamento selecionado, esses produtos serão exibidos</translation>
+      <translation>Com base no setor selecionado, esses produtos serão exibidos</translation>
     </message>
     <message>
       <source>Enable products </source>
@@ -3580,7 +3580,7 @@
     </message>
     <message>
       <source>Department groups</source>
-      <translation>departamento grupos</translation>
+      <translation>setor grupos</translation>
     </message>
     <message>
       <source>None</source>
@@ -3596,7 +3596,7 @@
     </message>
     <message>
       <source>Departments</source>
-      <translation>Departamentos</translation>
+      <translation>Setores</translation>
     </message>
     <message>
       <source>Maximum pending chats</source>
@@ -3604,7 +3604,7 @@
     </message>
     <message>
       <source>Individual theme is picked only if one department is passed. Theme determination happens in the following order.</source>
-      <translation>O tema individual é escolhido somente se um departamento for aprovado. A determinação do tema ocorre na seguinte ordem.</translation>
+      <translation>O tema individual é escolhido somente se um setor for aprovado. A determinação do tema ocorre na seguinte ordem.</translation>
     </message>
     <message>
       <source>Check for passed theme</source>
@@ -3616,7 +3616,7 @@
     </message>
     <message>
       <source>Check for default department theme</source>
-      <translation>Verifique o tema padrão departamento </translation>
+      <translation>Verifique o tema padrão setor </translation>
     </message>
     <message>
       <source>Check for global default theme</source>
@@ -3628,7 +3628,7 @@
     </message>
     <message>
       <source>Default theme applied per department</source>
-      <translation>padrão tema aplicado por departamento</translation>
+      <translation>padrão tema aplicado por setor</translation>
     </message>
     <message>
       <source>This theme is set from</source>
@@ -3640,7 +3640,7 @@
     </message>
     <message>
       <source>section and checking As default department theme.</source>
-      <translation>e verificar o tema As padrão departamento .</translation>
+      <translation>e verificar o tema As padrão setor .</translation>
     </message>
     <message>
       <source>Theme global</source>
@@ -3656,7 +3656,7 @@
     </message>
     <message>
       <source>to department as default or choose individual theme.</source>
-      <translation>para departamento como padrão ou escolha um tema individual.</translation>
+      <translation>para setor como padrão ou escolha um tema individual.</translation>
     </message>
     <message>
       <source>E-mail</source>
@@ -3836,7 +3836,7 @@
     </message>
     <message>
       <source>Edit a department</source>
-      <translation>Editar um departamento</translation>
+      <translation>Editar um setor</translation>
     </message>
     <message>
       <source>Brands</source>
@@ -3844,11 +3844,11 @@
     </message>
     <message>
       <source>Departments groups</source>
-      <translation>Grupos de departamentos</translation>
+      <translation>Grupos de setores</translation>
     </message>
     <message>
       <source>Departments limit groups</source>
-      <translation>Limite de grupos de departamentos</translation>
+      <translation>Limite de grupos de setores</translation>
     </message>
     <message>
       <source>Edit a group chat</source>
@@ -4294,15 +4294,15 @@
     </message>
     <message>
       <source>Department settings</source>
-      <translation>Configurações de departamento</translation>
+      <translation>Configurações de setor</translation>
     </message>
     <message>
       <source>Requires pre-filled department</source>
-      <translation>Requer definição de um departamento</translation>
+      <translation>Requer definição de um setor</translation>
     </message>
     <message>
       <source>User can not change passed department.</source>
-      <translation>O usuário não pode alterar o departamento passado.</translation>
+      <translation>O usuário não pode alterar o setor passado.</translation>
     </message>
     <message>
       <source>Encryption</source>
@@ -4406,7 +4406,7 @@
     </message>
     <message>
       <source>Department</source>
-      <translation>Departamento</translation>
+      <translation>Setor</translation>
     </message>
     <message>
       <source>New</source>
@@ -4453,7 +4453,7 @@
     </message>
     <message>
       <source>Department filter</source>
-      <translation>departamento filtro</translation>
+      <translation>setor filtro</translation>
     </message>
     <message>
       <source>Click to remove</source>
@@ -4461,7 +4461,7 @@
     </message>
     <message>
       <source>Choose department</source>
-      <translation>Escolher departamento</translation>
+      <translation>Escolher setor</translation>
     </message>
     <message>
       <source>Date range from</source>
@@ -4553,11 +4553,11 @@
     </message>
     <message>
       <source>Assign selected department to canned messages</source>
-      <translation>Atribua o endereço departamento selecionado a mensagens predefinidas</translation>
+      <translation>Atribua o endereço setor selecionado a mensagens predefinidas</translation>
     </message>
     <message>
       <source>Remove selected department from canned messages</source>
-      <translation>remover selecionado departamento de mensagens predefinidas</translation>
+      <translation>remover selecionado setor de mensagens predefinidas</translation>
     </message>
     <message>
       <source>Save</source>
@@ -4585,7 +4585,7 @@
     </message>
     <message>
       <source>Department</source>
-      <translation>Departamento</translation>
+      <translation>Setor</translation>
     </message>
     <message>
       <source>Subject</source>
@@ -4613,7 +4613,7 @@
     </message>
     <message>
       <source>Sort by</source>
-      <translation>Ordenar por</translation>
+      <translation>Classificar por</translation>
     </message>
     <message>
       <source>CSV</source>
@@ -4625,7 +4625,7 @@
     </message>
     <message>
       <source>Department group</source>
-      <translation>Grupo de departamento</translation>
+      <translation>Grupo de setor</translation>
     </message>
     <message>
       <source>Generate</source>
@@ -4633,7 +4633,7 @@
     </message>
     <message>
       <source>Choose department group</source>
-      <translation>Escolher grupo de departamento</translation>
+      <translation>Escolher grupo de setor</translation>
     </message>
     <message>
       <source>Include content</source>
@@ -4681,7 +4681,7 @@
     </message>
     <message>
       <source>Dropped chat</source>
-      <translation>Chat abandonado</translation>
+      <translation>Chat perdido</translation>
     </message>
     <message>
       <source>Nick</source>
@@ -4765,7 +4765,7 @@
     </message>
     <message>
       <source>Visitor ID</source>
-      <translation>Visitante ID</translation>
+      <translation>ID do Visitante</translation>
     </message>
     <message>
       <source>Chat duration</source>
@@ -4809,7 +4809,7 @@
     </message>
     <message>
       <source>Visitor status on chat close</source>
-      <translation>Status do visitante no fechamento do chat</translation>
+      <translation>Status do visitante ao fechar o chat</translation>
     </message>
     <message>
       <source>Online</source>
@@ -4825,7 +4825,7 @@
     </message>
     <message>
       <source>Has unread operator messages</source>
-      <translation>Tem mensagens não lidas em Operador </translation>
+      <translation>Possui mensagens de operador não lidas</translation>
     </message>
     <message>
       <source>Yes</source>
@@ -5017,7 +5017,7 @@
     </message>
     <message>
       <source>Select department</source>
-      <translation>Selecionar departamento</translation>
+      <translation>Selecionar setor</translation>
     </message>
     <message>
       <source>Type to search</source>
@@ -5025,7 +5025,7 @@
     </message>
     <message>
       <source>Apply this configuration also to these departments</source>
-      <translation>Aplique essa configuração também a esses departamentos</translation>
+      <translation>Aplique essa configuração também a esses setores</translation>
     </message>
     <message>
       <source>Search for a user.  First 50 users are shown.</source>
@@ -5037,11 +5037,11 @@
     </message>
     <message>
       <source>Transfer to bot only if department is offline</source>
-      <translation>Tranferir para o robô apenas se o departamento estiver offline</translation>
+      <translation>Tranferir para o robô apenas se o setor estiver offline</translation>
     </message>
     <message>
       <source>Bot follows online hours. Department will be offline if there is no online operators or it is outside work hours.</source>
-      <translation>O Bot segue o horário online. O departamento ficará offline se não houver operadores online ou fora do horário de trabalho.</translation>
+      <translation>O Bot segue o horário online. O setor ficará offline se não houver operadores online ou fora do horário de trabalho.</translation>
     </message>
     <message>
       <source>Enable debug logging</source>
@@ -5677,11 +5677,11 @@
     </message>
     <message>
       <source>Choose department you want to add</source>
-      <translation>Escolha departamento que você deseja adicionar</translation>
+      <translation>Escolha setor que você deseja adicionar</translation>
     </message>
     <message>
       <source>Choose department group you want to add</source>
-      <translation>Escolha o grupo departamento que você deseja adicionar</translation>
+      <translation>Escolha o grupo setor que você deseja adicionar</translation>
     </message>
     <message>
       <source>Disable operators</source>
@@ -6000,7 +6000,7 @@
     </message>
     <message>
       <source>Default department</source>
-      <translation>padrão departamento</translation>
+      <translation>padrão setor</translation>
     </message>
     <message>
       <source>Select</source>
@@ -6621,7 +6621,7 @@
     </message>
     <message>
       <source>If you do not choose any department, subject will be visible for all departments</source>
-      <translation>Se você não selecionar o departamento o seu assunto será visualizado por todos os departamentos</translation>
+      <translation>Se você não selecionar o setor o seu assunto será visualizado por todos os setores</translation>
     </message>
     <message>
       <source>This is usefull if you need additional filtering for your own purposes. Leave it empty in most cases.</source>
@@ -6738,7 +6738,7 @@
     </message>
     <message>
       <source>Department is disabled</source>
-      <translation>Departamento está desabilitado</translation>
+      <translation>Setor está desabilitado</translation>
     </message>
     <message>
       <source>E-mail</source>
@@ -6770,7 +6770,7 @@
     </message>
     <message>
       <source>Please provide a department</source>
-      <translation>Por gentileza, informe um departamento</translation>
+      <translation>Por gentileza, informe um setor</translation>
     </message>
     <message>
       <source>Name</source>
@@ -6862,7 +6862,7 @@
     </message>
     <message>
       <source>Department</source>
-      <translation>Departamento</translation>
+      <translation>Setor</translation>
     </message>
     <message>
       <source>Offline</source>
@@ -6878,7 +6878,7 @@
     </message>
     <message>
       <source>Department is offline</source>
-      <translation>Departamento está offline</translation>
+      <translation>Setor está offline</translation>
     </message>
     <message>
       <source>Go to leave a message form</source>
@@ -6886,7 +6886,7 @@
     </message>
     <message>
       <source>Cancel and choose another department</source>
-      <translation>Cancelar e escolher outro departamento</translation>
+      <translation>Cancelar e escolher outro setor</translation>
     </message>
     <message>
       <source>characters</source>
@@ -7006,7 +7006,7 @@
     </message>
     <message>
       <source>Please choose department!</source>
-      <translation>Por gentileza, escolha um departamento!</translation>
+      <translation>Por gentileza, escolha um setor!</translation>
     </message>
     <message>
       <source>Could not find a product!</source>
@@ -7014,7 +7014,7 @@
     </message>
     <message>
       <source>Could not determine a default department!</source>
-      <translation>Não foi possível determinar um departamento padrão!</translation>
+      <translation>Não foi possível determinar um setor padrão!</translation>
     </message>
     <message>
       <source>Please choose a product!</source>
@@ -7022,7 +7022,7 @@
     </message>
     <message>
       <source>At the moment department is overloaded, please choose a different department or try again later!</source>
-      <translation>No momento o departamento está sobrecarregado. Por gentileza, escolha um departamento diferente ou tente novamente mais tarde!</translation>
+      <translation>No momento o setor está sobrecarregado. Por gentileza, escolha um setor diferente ou tente novamente mais tarde!</translation>
     </message>
     <message>
       <source>is required</source>
@@ -7625,7 +7625,7 @@
     </message>
     <message>
       <source>Department</source>
-      <translation>Departamento</translation>
+      <translation>Setor</translation>
     </message>
     <message>
       <source>Any</source>
@@ -7809,7 +7809,7 @@
     </message>
     <message>
       <source>As default department theme</source>
-      <translation>Como padrão departamento tema</translation>
+      <translation>Como padrão setor tema</translation>
     </message>
     <message>
       <source>Show a leave a message form when there are no online operators</source>
@@ -8235,7 +8235,7 @@
     </message>
     <message>
       <source>Department</source>
-      <translation>Departamento</translation>
+      <translation>Setor</translation>
     </message>
     <message>
       <source>Refresh list every</source>
@@ -8339,7 +8339,7 @@
     </message>
     <message>
       <source>If you do not choose any department from below we will track all departments.</source>
-      <translation>Se você não escolher nenhum dos departamento abaixo, rastrearemos todos os departamentos.</translation>
+      <translation>Se você não escolher nenhum dos setor abaixo, rastrearemos todos os setores.</translation>
     </message>
     <message>
       <source>Country code variable does not exist!</source>
@@ -9065,7 +9065,7 @@
     </message>
     <message>
       <source>Department</source>
-      <translation>Departamento</translation>
+      <translation>Setor</translation>
     </message>
     <message>
       <source>This is offline message</source>
@@ -9401,7 +9401,7 @@
     </message>
     <message>
       <source>Hold removed!</source>
-      <translation>Mantenha removido!</translation>
+      <translation>O chat está ativo novamente!</translation>
     </message>
     <message>
       <source>has accepted the chat!</source>
@@ -9421,15 +9421,15 @@
     </message>
     <message>
       <source>Visitor hold removed!</source>
-      <translation>Retenção de visitantes removida!</translation>
+      <translation>O visitante não está mais em espera!</translation>
     </message>
     <message>
       <source>Visitor hold added!</source>
-      <translation>Retenção de visitantes adicionada!</translation>
+      <translation>O visitante foi colocado em espera!</translation>
     </message>
     <message>
       <source>Hold added!</source>
-      <translation>Aguarde!</translation>
+      <translation>O chat foi colocado em espera!</translation>
     </message>
     <message>
       <source>No permission</source>
@@ -10128,7 +10128,7 @@
     </message>
     <message>
       <source>Department</source>
-      <translation>Departamento</translation>
+      <translation>Setor</translation>
     </message>
     <message>
       <source>Nick/E-mail/Country</source>
@@ -10144,11 +10144,11 @@
     </message>
     <message>
       <source>User who blocked</source>
-      <translation>Usuário bloqueado</translation>
+      <translation>Usuário que bloqueou</translation>
     </message>
     <message>
       <source>Nick</source>
-      <translation>Usuário</translation>
+      <translation>Apelido</translation>
     </message>
     <message>
       <source>Country</source>
@@ -10156,7 +10156,7 @@
     </message>
     <message>
       <source>Nick and Department</source>
-      <translation>Nick e departamento</translation>
+      <translation>Apelido e setor</translation>
     </message>
     <message>
       <source>E-mail</source>
@@ -10180,7 +10180,7 @@
     </message>
     <message>
       <source>Expires</source>
-      <translation>Expirações</translation>
+      <translation>Válido até</translation>
     </message>
     <message>
       <source>Block</source>
@@ -10196,7 +10196,7 @@
     </message>
     <message>
       <source>days (cool off)</source>
-      <translation>dias (esfriar)</translation>
+      <translation>dias (invervalo de descanso)</translation>
     </message>
     <message>
       <source>days</source>
@@ -10359,7 +10359,7 @@
     </message>
     <message>
       <source>Assigned departments</source>
-      <translation>Departamentos atribuídos</translation>
+      <translation>Setores atribuídos</translation>
     </message>
     <message>
       <source>Visible lists</source>
@@ -10551,11 +10551,11 @@
     </message>
     <message>
       <source>All departments</source>
-      <translation>Todos os departamentos</translation>
+      <translation>Todos os setores</translation>
     </message>
     <message>
       <source>Individual departments</source>
-      <translation>Departamentos individuais</translation>
+      <translation>Setores individuais</translation>
     </message>
     <message>
       <source>New</source>
@@ -10603,7 +10603,7 @@
     </message>
     <message>
       <source>You have permission to edit departments group, but do not have permission to read them. Missing one of these permissions</source>
-      <translation>Você tem permissão para editar grupos de departamentos, mas não tem permissão para lê-los. Falta uma dessas permissões</translation>
+      <translation>Você tem permissão para editar grupos de setores, mas não tem permissão para lê-los. Falta uma dessas permissões</translation>
     </message>
     <message>
       <source>Changes will not be saved!</source>
@@ -10619,7 +10619,7 @@
     </message>
     <message>
       <source>Departments groups</source>
-      <translation>Grupos de departamentos</translation>
+      <translation>Grupos de setores</translation>
     </message>
     <message>
       <source>Offline</source>
@@ -10647,7 +10647,7 @@
     </message>
     <message>
       <source>Department alias</source>
-      <translation>departamento pseudônimo</translation>
+      <translation>setor pseudônimo</translation>
     </message>
     <message>
       <source>Avatar builder</source>
@@ -10699,7 +10699,7 @@
     </message>
     <message>
       <source>Department assignment could not be found!</source>
-      <translation>departamento Não foi possível encontrar a atribuição!</translation>
+      <translation>setor Não foi possível encontrar a atribuição!</translation>
     </message>
     <message>
       <source>Created</source>
@@ -10846,7 +10846,7 @@
     </message>
     <message>
       <source>Departments stats</source>
-      <translation>Status dos departamentos</translation>
+      <translation>Status dos setores</translation>
     </message>
     <message>
       <source>Pending chats</source>
@@ -10933,7 +10933,7 @@
     </message>
     <message>
       <source>My active and pending chats</source>
-      <translation>Minhas conversas ativas e pendentes</translation>
+      <translation>Meus chats ativos e pendentes</translation>
     </message>
     <message>
       <source>Pending chats</source>
@@ -10949,7 +10949,7 @@
     </message>
     <message>
       <source>Transferred to your department</source>
-      <translation>Transferido para o seu departamento</translation>
+      <translation>Transferido para o seu setor</translation>
     </message>
     <message>
       <source>Home</source>
@@ -10985,11 +10985,11 @@
     </message>
     <message>
       <source>Taken time to render departments groups statistic</source>
-      <translation>Demorou para renderizar a estatística dos grupos de departamentos</translation>
+      <translation>Demorou para renderizar a estatística dos grupos de setores</translation>
     </message>
     <message>
       <source>Taken time to render departments statistic</source>
-      <translation>Demorou para apresentar a estatística dos departamentos</translation>
+      <translation>Demorou para apresentar a estatística dos setores</translation>
     </message>
     <message>
       <source>Group chats</source>
@@ -11005,11 +11005,11 @@
     </message>
     <message>
       <source>All departments</source>
-      <translation>Todos os departamentos</translation>
+      <translation>Todos os setores</translation>
     </message>
     <message>
       <source>departments</source>
-      <translation>departamentos</translation>
+      <translation>setores</translation>
     </message>
     <message>
       <source>Check all</source>
@@ -11029,11 +11029,11 @@
     </message>
     <message>
       <source>Hide departments</source>
-      <translation>Ocultar departamentos</translation>
+      <translation>Ocultar setores</translation>
     </message>
     <message>
       <source>Hide departments groups</source>
-      <translation>Ocultar grupos de departamentos</translation>
+      <translation>Ocultar grupos de setores</translation>
     </message>
     <message>
       <source>Hide disabled</source>
@@ -11041,11 +11041,11 @@
     </message>
     <message>
       <source>Department group</source>
-      <translation>Grupo de departamento</translation>
+      <translation>Grupo de setor</translation>
     </message>
     <message>
       <source>Department</source>
-      <translation>Departamento</translation>
+      <translation>Setor</translation>
     </message>
     <message>
       <source>Users</source>
@@ -11077,7 +11077,7 @@
     </message>
     <message>
       <source>Departments stats</source>
-      <translation>Status dos departamentos</translation>
+      <translation>Status dos setores</translation>
     </message>
     <message>
       <source>My active and new mails</source>
@@ -11273,7 +11273,7 @@
     </message>
     <message>
       <source>My views</source>
-      <translation>Meus pontos de vista</translation>
+      <translation>Minhas Visões</translation>
     </message>
     <message>
       <source>Hello</source>
@@ -11325,7 +11325,7 @@
     </message>
     <message>
       <source>Search for department</source>
-      <translation>Procurar por departamento</translation>
+      <translation>Procurar por setor</translation>
     </message>
   </context>
   <context>
@@ -11388,7 +11388,7 @@
     </message>
     <message>
       <source>Sort by location</source>
-      <translation>Ordenar por localização</translation>
+      <translation>Classificar por localização</translation>
     </message>
     <message>
       <source>Visitor</source>
@@ -11396,23 +11396,23 @@
     </message>
     <message>
       <source>Sort by visitor nick</source>
-      <translation>Ordenar por apelido/nome do visitante</translation>
+      <translation>Classificar por apelido/nome do visitante</translation>
     </message>
     <message>
       <source>Sort by last message time</source>
-      <translation>Ordenar por hora da última mensagem</translation>
+      <translation>Classificar por hora da última mensagem</translation>
     </message>
     <message>
       <source>Sort by chat start time</source>
-      <translation>Ordenar por hora de início do chat</translation>
+      <translation>Classificar por hora de início do chat</translation>
     </message>
     <message>
       <source>Sort by operator</source>
-      <translation>Ordenar por operador</translation>
+      <translation>Classificar por operador</translation>
     </message>
     <message>
       <source>Sort by department</source>
-      <translation>Ordenar por departamento</translation>
+      <translation>Classificar por setor</translation>
     </message>
     <message>
       <source>More rows</source>
@@ -11444,7 +11444,7 @@
     </message>
     <message>
       <source>Department</source>
-      <translation>Departamento</translation>
+      <translation>Setor</translation>
     </message>
     <message>
       <source>Wait time</source>
@@ -11532,7 +11532,7 @@
     </message>
     <message>
       <source>Sort by online status</source>
-      <translation>Ordenar por status online</translation>
+      <translation>Classificar por status online</translation>
     </message>
     <message>
       <source>Last activity ago</source>
@@ -11544,7 +11544,7 @@
     </message>
     <message>
       <source>Sort by active chats number</source>
-      <translation>Sortear chat ativos pelo número</translation>
+      <translation>Classificar pelo número de chats ativos</translation>
     </message>
     <message>
       <source>Start chat</source>
@@ -11580,7 +11580,7 @@
     </message>
     <message>
       <source>Sort</source>
-      <translation>Ordenar</translation>
+      <translation>Classificar</translation>
     </message>
     <message>
       <source>Redirect user to contact form.</source>
@@ -11604,7 +11604,7 @@
     </message>
     <message>
       <source>Department group</source>
-      <translation>departamento grupo</translation>
+      <translation>setor grupo</translation>
     </message>
     <message>
       <source>Pending chats</source>
@@ -11652,11 +11652,11 @@
     </message>
     <message>
       <source>Transferred chats to your department will appear here.</source>
-      <translation>Os chats transferidos para o seu departamento aparecerão aqui.</translation>
+      <translation>Os chats transferidos para o seu setor aparecerão aqui.</translation>
     </message>
     <message>
       <source>Transferred chats to you or your department will appear here.</source>
-      <translation>Transferir um chat para um dos usuários do seu departamento</translation>
+      <translation>Transferir um chat para um dos usuários do seu setor</translation>
     </message>
     <message>
       <source>Last assignment ago</source>
@@ -11672,7 +11672,7 @@
     </message>
     <message>
       <source>Sort by operator name</source>
-      <translation>Ordenar por Operador Nome</translation>
+      <translation>Classificar pelo Nome de Operador</translation>
     </message>
     <message>
       <source>Active</source>
@@ -11688,7 +11688,7 @@
     </message>
     <message>
       <source>Sort by chat priority and chat start time</source>
-      <translation>Classificar por prioridade do chat e hora de início do chat</translation>
+      <translation>Classificar por prioridade e hora de início do chat</translation>
     </message>
     <message>
       <source>Sort by chat wait time</source>
@@ -12215,7 +12215,7 @@
     </message>
     <message>
       <source>Department group</source>
-      <translation>departamento grupo</translation>
+      <translation>setor grupo</translation>
     </message>
     <message>
       <source>Exclude from auto assign workflow</source>
@@ -12247,19 +12247,19 @@
     </message>
     <message>
       <source>Department</source>
-      <translation>Departamento</translation>
+      <translation>Setor</translation>
     </message>
     <message>
       <source>Department operators</source>
-      <translation>departamento operadores</translation>
+      <translation>setor operadores</translation>
     </message>
     <message>
       <source>We show only to group assigned operators. We do not show directly to department assigned operators.</source>
-      <translation>Mostramos apenas para os operadores atribuídos ao grupo. Não exibimos diretamente para os operadores atribuídos ao departamento.</translation>
+      <translation>Mostramos apenas para os operadores atribuídos ao grupo. Não exibimos diretamente para os operadores atribuídos ao setor.</translation>
     </message>
     <message>
       <source>Department group operators</source>
-      <translation>departamento operadores de grupo</translation>
+      <translation>setor operadores de grupo</translation>
     </message>
     <message>
       <source>Chats</source>
@@ -12807,11 +12807,11 @@
     </message>
     <message>
       <source>Edit department group assignment</source>
-      <translation>Editar a atribuição do grupo departamento </translation>
+      <translation>Editar a atribuição do grupo setor </translation>
     </message>
     <message>
       <source>Edit department assignment</source>
-      <translation>Editar a atribuição de departamento </translation>
+      <translation>Editar a atribuição de setor </translation>
     </message>
     <message>
       <source>Add</source>
@@ -12819,23 +12819,23 @@
     </message>
     <message>
       <source>Assign department</source>
-      <translation>Atribuir departamento</translation>
+      <translation>Atribuir setor</translation>
     </message>
     <message>
       <source>Assign department group</source>
-      <translation>Atribuir grupo departamento </translation>
+      <translation>Atribuir grupo setor </translation>
     </message>
     <message>
       <source>Please choose a department!</source>
-      <translation>Por favor, escolha um departamento!</translation>
+      <translation>Por favor, escolha um setor!</translation>
     </message>
     <message>
       <source>This department department already have been added!</source>
-      <translation>Este departamento departamento já foi adicionado!</translation>
+      <translation>Este setor setor já foi adicionado!</translation>
     </message>
     <message>
       <source>This department already have been added!</source>
-      <translation>Este departamento já foi adicionado!</translation>
+      <translation>Este setor já foi adicionado!</translation>
     </message>
   </context>
   <context>
@@ -13096,7 +13096,7 @@
     </message>
     <message>
       <source>Department</source>
-      <translation>Departamento</translation>
+      <translation>Setor</translation>
     </message>
     <message>
       <source>Participant</source>
@@ -13171,15 +13171,15 @@
     </message>
     <message>
       <source>Departments</source>
-      <translation>Departamentos</translation>
+      <translation>Setores</translation>
     </message>
     <message>
       <source>Departments groups</source>
-      <translation>Grupos de departamentos</translation>
+      <translation>Grupos de setores</translation>
     </message>
     <message>
       <source>Departments limit groups</source>
-      <translation>Limite de grupos de departamentos</translation>
+      <translation>Limite de grupos de setores</translation>
     </message>
     <message>
       <source>Brands</source>
@@ -13809,7 +13809,7 @@
     </message>
     <message>
       <source>Department</source>
-      <translation>Departamento</translation>
+      <translation>Setor</translation>
     </message>
     <message>
       <source>Status</source>
@@ -14064,7 +14064,7 @@
     </message>
     <message>
       <source>Number of chats by department</source>
-      <translation>Número de chat por departamento</translation>
+      <translation>Número de chat por setor</translation>
     </message>
     <message>
       <source>AVG visitor wait time by operator</source>
@@ -14228,11 +14228,11 @@
     </message>
     <message>
       <source>Number of messages per department</source>
-      <translation>Número de mensagens por departamento</translation>
+      <translation>Número de mensagens por setor</translation>
     </message>
     <message>
       <source>Average duration of interactions by department</source>
-      <translation>Duração média das interações por departamento</translation>
+      <translation>Duração média das interações por setor</translation>
     </message>
     <message>
       <source>Average duration of interactions per user</source>
@@ -14252,7 +14252,7 @@
     </message>
     <message>
       <source>Department statistic generation</source>
-      <translation>departamento geração de estatísticas</translation>
+      <translation>setor geração de estatísticas</translation>
     </message>
     <message>
       <source>Average chat duration should be calculated for the last</source>
@@ -14392,7 +14392,7 @@
     </message>
     <message>
       <source>Average duration of interactions by department. Max 10 minutes.</source>
-      <translation>Duração média das interações por departamento. Máximo de 10 minutos.</translation>
+      <translation>Duração média das interações por setor. Máximo de 10 minutos.</translation>
     </message>
     <message>
       <source>Average duration of interactions per user.  Max 10 minutes.</source>
@@ -14528,7 +14528,7 @@
     </message>
     <message>
       <source>Departments</source>
-      <translation>Departamentos</translation>
+      <translation>Setores</translation>
     </message>
     <message>
       <source>Last 24 hours statistics</source>
@@ -14607,7 +14607,7 @@
     <name>chat/loadprevious</name>
     <message>
       <source>Chat messages were hidden. You do not have permission to access department</source>
-      <translation>As mensagens de chat estavam ocultas. Você não tem permissão para acessar departamento</translation>
+      <translation>As mensagens de chat estavam ocultas. Você não tem permissão para acessar setor</translation>
     </message>
     <message>
       <source>Continue of the chat</source>
@@ -14665,7 +14665,7 @@
     </message>
     <message>
       <source>Department</source>
-      <translation>Departamento</translation>
+      <translation>Setor</translation>
     </message>
     <message>
       <source>Please provide modal URL!</source>
@@ -15008,7 +15008,7 @@
     </message>
     <message>
       <source>Member of these departments groups</source>
-      <translation>Membro dos grupos destes departamentos</translation>
+      <translation>Membro dos grupos destes setores</translation>
     </message>
     <message>
       <source>Online</source>
@@ -15024,7 +15024,7 @@
     </message>
     <message>
       <source>Transfer to a department</source>
-      <translation>Transferir para um departamento</translation>
+      <translation>Transferir para um setor</translation>
     </message>
     <message>
       <source>Change owner</source>
@@ -15032,7 +15032,7 @@
     </message>
     <message>
       <source>Change department</source>
-      <translation>Mudança departamento</translation>
+      <translation>Mudança setor</translation>
     </message>
     <message>
       <source>Logged in users</source>
@@ -15040,7 +15040,7 @@
     </message>
     <message>
       <source>Transfer a chat to one of your departments users</source>
-      <translation>Transferir um chat para um dos usuários do seu departamento</translation>
+      <translation>Transferir um chat para um dos usuários do seu setor</translation>
     </message>
     <message>
       <source>Only logged and online operators</source>
@@ -15048,7 +15048,7 @@
     </message>
     <message>
       <source>Only operators from same departments</source>
-      <translation>Apenas operadores do mesmo departamento</translation>
+      <translation>Apenas operadores do mesmo setor</translation>
     </message>
     <message>
       <source>Transfer</source>
@@ -15056,15 +15056,15 @@
     </message>
     <message>
       <source>Only departments which are online and explicitly assigned operator are online</source>
-      <translation>Somente departamentos que estão online e com um operador estão online.</translation>
+      <translation>Somente setores que estão online e com um operador estão online.</translation>
     </message>
     <message>
       <source>Exclude hidden departments</source>
-      <translation>Remover departamentos escondidos</translation>
+      <translation>Remover setores escondidos</translation>
     </message>
     <message>
       <source>Exclude disabled departments</source>
-      <translation>Remover departamentos desabilitados</translation>
+      <translation>Remover setores desabilitados</translation>
     </message>
     <message>
       <source>You will still remain an owner of the chat.</source>
@@ -15593,7 +15593,7 @@
     </message>
     <message>
       <source>List of events tracking settings by department</source>
-      <translation>Lista de eventos de rastreamento configurações por departamento</translation>
+      <translation>Lista de eventos de rastreamento configurações por setor</translation>
     </message>
     <message>
       <source>Please enable events tracking first!</source>
@@ -15605,11 +15605,11 @@
     </message>
     <message>
       <source>Track all departments</source>
-      <translation>Rastrear todos os departamentos</translation>
+      <translation>Rastrear todos os setores</translation>
     </message>
     <message>
       <source>Enable tracking only for selected departments.</source>
-      <translation>habilitar rastreamento somente para departamentos selecionados.</translation>
+      <translation>habilitar rastreamento somente para setores selecionados.</translation>
     </message>
     <message>
       <source>Javascript to execute on event. {{eventCategory}}, {{eventAction}}, {{eventLabel}}, {{eventInternal}} you can use as placeholders.</source>
@@ -15721,7 +15721,7 @@
     </message>
     <message>
       <source>Please choose a department</source>
-      <translation>Por favor, escolha um departamento</translation>
+      <translation>Por favor, escolha um setor</translation>
     </message>
     <message>
       <source>Please enter a name</source>
@@ -15729,7 +15729,7 @@
     </message>
     <message>
       <source>Events tracking by department</source>
-      <translation>Rastreamento de eventos por departamento</translation>
+      <translation>Rastreamento de eventos por setor</translation>
     </message>
     <message>
       <source>Edit event tracking</source>
@@ -15772,7 +15772,7 @@
     </message>
     <message>
       <source>Departments</source>
-      <translation>Departamentos</translation>
+      <translation>Setores</translation>
     </message>
     <message>
       <source>Name</source>
@@ -15808,7 +15808,7 @@
     </message>
     <message>
       <source>Department alias</source>
-      <translation>departamento pseudônimo</translation>
+      <translation>setor pseudônimo</translation>
     </message>
     <message>
       <source>Yes</source>
@@ -15824,11 +15824,11 @@
     </message>
     <message>
       <source>New department</source>
-      <translation>Novo departamento</translation>
+      <translation>Novo setor</translation>
     </message>
     <message>
       <source>Departments groups</source>
-      <translation>Departamentos</translation>
+      <translation>Setores</translation>
     </message>
     <message>
       <source>Group</source>
@@ -15892,7 +15892,7 @@
     </message>
     <message>
       <source>Departments limit groups</source>
-      <translation>Limite de grupos de departamentos</translation>
+      <translation>Limite de grupos de setores</translation>
     </message>
     <message>
       <source>Group chat</source>
@@ -15948,7 +15948,7 @@
     </message>
     <message>
       <source>Departments list</source>
-      <translation>Lista de departamentos</translation>
+      <translation>Lista de setores</translation>
     </message>
     <message>
       <source>Group chats</source>
@@ -16014,7 +16014,7 @@
     </message>
     <message>
       <source>Maximum number of department active chats, 0 - unlimited</source>
-      <translation>Número máximo de chats ativos por departamento. 0 - ilimitado</translation>
+      <translation>Número máximo de chats ativos por setor. 0 - ilimitado</translation>
     </message>
     <message>
       <source>If this limit is reached, new chats will not be assigned to any operator.</source>
@@ -16098,7 +16098,7 @@
     </message>
     <message>
       <source>Maximum number of department active mails, 0 - unlimited</source>
-      <translation>máximo Número de e-mails departamento ativo , 0 - ilimitado</translation>
+      <translation>máximo Número de e-mails setor ativo , 0 - ilimitado</translation>
     </message>
     <message>
       <source>If this limit is reached, new mails will not be assigned to any operator.</source>
@@ -16136,7 +16136,7 @@
     <name>department/new</name>
     <message>
       <source>New department</source>
-      <translation>Novo departamento</translation>
+      <translation>Novo setor</translation>
     </message>
     <message>
       <source>New brand</source>
@@ -16144,11 +16144,11 @@
     </message>
     <message>
       <source>New department group</source>
-      <translation>Novo grupo de departamentos</translation>
+      <translation>Novo grupo de setores</translation>
     </message>
     <message>
       <source>New department limit group</source>
-      <translation>Novo limite para grupo de departamento</translation>
+      <translation>Novo limite para grupo de setor</translation>
     </message>
     <message>
       <source>New</source>
@@ -17169,7 +17169,7 @@
     </message>
     <message>
       <source>If you are passing department make sure. This is highly recommended as chat might not be able to start if you have custom required fields by department.</source>
-      <translation>Se você estiver acessando departamento, certifique-se de que. Isso é altamente recomendado, pois o chat pode não ser iniciado se você tiver campos obrigatórios personalizados em departamento.</translation>
+      <translation>Se você estiver acessando setor, certifique-se de que. Isso é altamente recomendado, pois o chat pode não ser iniciado se você tiver campos obrigatórios personalizados em setor.</translation>
     </message>
     <message>
       <source>You pass it for all options</source>
@@ -17181,11 +17181,11 @@
     </message>
     <message>
       <source>You have chosen that department in department options.</source>
-      <translation>Você escolheu o endereço departamento em departamento options.</translation>
+      <translation>Você escolheu o endereço setor em setor options.</translation>
     </message>
     <message>
       <source>Apply this configuration also to these departments</source>
-      <translation>Aplique essa configuração também a esses departamentos</translation>
+      <translation>Aplique essa configuração também a esses setores</translation>
     </message>
     <message>
       <source>or</source>
@@ -17193,7 +17193,7 @@
     </message>
     <message>
       <source>Department</source>
-      <translation>Departamento</translation>
+      <translation>Setor</translation>
     </message>
     <message>
       <source>JSON based options.</source>
@@ -17277,7 +17277,7 @@
     </message>
     <message>
       <source>Department ID</source>
-      <translation>departamento ID</translation>
+      <translation>setor ID</translation>
     </message>
     <message>
       <source>are we online</source>
@@ -17396,7 +17396,7 @@
     </message>
     <message>
       <source>Department</source>
-      <translation>departamento</translation>
+      <translation>setor</translation>
     </message>
     <message>
       <source>Status</source>
@@ -17613,11 +17613,11 @@
     </message>
     <message>
       <source>Department</source>
-      <translation>departamento</translation>
+      <translation>setor</translation>
     </message>
     <message>
       <source>Department ID</source>
-      <translation>departamento ID</translation>
+      <translation>setor ID</translation>
     </message>
     <message>
       <source>Operator</source>
@@ -18315,7 +18315,7 @@
     </message>
     <message>
       <source>Department</source>
-      <translation>departamento</translation>
+      <translation>setor</translation>
     </message>
     <message>
       <source>TO</source>
@@ -18343,7 +18343,7 @@
     </message>
     <message>
       <source>Set department to</source>
-      <translation>Defina departamento como</translation>
+      <translation>Defina setor como</translation>
     </message>
     <message>
       <source>Priority conversation should get</source>
@@ -18991,7 +18991,7 @@
     </message>
     <message>
       <source>Set previous chat to Pending/Bot depending on department configuration.</source>
-      <translation>Defina o chat anterior como Pendente/Bot, dependendo da configuração do site departamento.</translation>
+      <translation>Defina o chat anterior como Pendente/Bot, dependendo da configuração do site setor.</translation>
     </message>
     <message>
       <source>Set as active if operator was assigned. Operator will not be reset.</source>
@@ -19003,7 +19003,7 @@
     </message>
     <message>
       <source>Chat should be reset to default department. Bot also will be set to default.</source>
-      <translation>O chat deve ser redefinido para padrão departamento . O bot também será definido como padrão.</translation>
+      <translation>O chat deve ser redefinido para padrão setor . O bot também será definido como padrão.</translation>
     </message>
     <message>
       <source>These attributes can be accessed in Rest API. So you would not need to define them there.</source>
@@ -19061,11 +19061,11 @@
     </message>
     <message>
       <source>Departments</source>
-      <translation>Departamentos</translation>
+      <translation>Setores</translation>
     </message>
     <message>
       <source>All departments</source>
-      <translation>Todos os departamentos</translation>
+      <translation>Todos os setores</translation>
     </message>
     <message>
       <source>HTML Template</source>
@@ -19243,7 +19243,7 @@
     </message>
     <message>
       <source>Department</source>
-      <translation>Departamento</translation>
+      <translation>Setor</translation>
     </message>
     <message>
       <source>Theme</source>
@@ -20307,7 +20307,7 @@
     </message>
     <message>
       <source>Department</source>
-      <translation>Departamento</translation>
+      <translation>Setor</translation>
     </message>
     <message>
       <source>Operator</source>
@@ -20331,7 +20331,7 @@
     </message>
     <message>
       <source>Department name</source>
-      <translation>Nome do departamento</translation>
+      <translation>Nome do setor</translation>
     </message>
     <message>
       <source>Survey ID</source>
@@ -20832,7 +20832,7 @@
     </message>
     <message>
       <source>Options for chat transfer to department</source>
-      <translation>Opções para transferir chat para departamento</translation>
+      <translation>Opções para transferir chat para setor</translation>
     </message>
     <message>
       <source>Settings updated</source>
@@ -20843,11 +20843,11 @@
     <name>user/new</name>
     <message>
       <source>Change chat department to transferred department on chat transfer</source>
-      <translation>Alterar departamento do chat para o departamento transferido, ao transferir o chat.</translation>
+      <translation>Alterar setor do chat para o setor transferido, ao transferir o chat.</translation>
     </message>
     <message>
       <source>Make chat status pending on transfer to department</source>
-      <translation>Marcar o chat como pendente ao transferir para um departamento</translation>
+      <translation>Marcar o chat como pendente ao transferir para um setor</translation>
     </message>
     <message>
       <source>Make chat unassigned. Assigned operator will be unassigned</source>
@@ -20891,11 +20891,11 @@
     </message>
     <message>
       <source>User department</source>
-      <translation>Departamento de usuário</translation>
+      <translation>Setor de usuário</translation>
     </message>
     <message>
       <source>User department group</source>
-      <translation>Usuário departamento group</translation>
+      <translation>Usuário setor group</translation>
     </message>
     <message>
       <source>New user</source>
@@ -20943,7 +20943,7 @@
     </message>
     <message>
       <source>Departments you will be able to assign once you save an operator.</source>
-      <translation>Departamentos que você poderá atribuir depois de acessar Salvar e Operador.</translation>
+      <translation>Setores que você poderá atribuir depois de acessar Salvar e Operador.</translation>
     </message>
     <message>
       <source>Log request. All request will be logged</source>
@@ -21454,7 +21454,7 @@
     </message>
     <message>
       <source>Can access all departments</source>
-      <translation>Pode acessar todos os departamentos</translation>
+      <translation>Pode acessar todos os setores</translation>
     </message>
     <message>
       <source>Skype</source>
@@ -21732,7 +21732,7 @@
     </message>
     <message>
       <source>My views</source>
-      <translation>Meus pontos de vista</translation>
+      <translation>Minhas Visões</translation>
     </message>
     <message>
       <source>You have shared views with you!</source>
@@ -21968,7 +21968,7 @@
     </message>
     <message>
       <source>Department. If you do not choose one we will use the one defined in webhook.</source>
-      <translation>departamento. Se você não escolher um, usaremos o definido no webhook.</translation>
+      <translation>setor. Se você não escolher um, usaremos o definido no webhook.</translation>
     </message>
     <message>
       <source>Create chat</source>
@@ -22331,7 +22331,7 @@
     <name>chat/chatexport</name>
     <message>
       <source>Department name</source>
-      <translation>Nome do departamento</translation>
+      <translation>Nome do setor</translation>
     </message>
     <message>
       <source>Pending chats number</source>
@@ -22387,7 +22387,7 @@
     </message>
     <message>
       <source>Department</source>
-      <translation>Departamento</translation>
+      <translation>Setor</translation>
     </message>
     <message>
       <source>Date</source>
@@ -22730,7 +22730,7 @@
     </message>
     <message>
       <source>changed chat department from</source>
-      <translation>mudou o departamento de chat de</translation>
+      <translation>mudou o setor de chat de</translation>
     </message>
     <message>
       <source>to</source>
@@ -22749,7 +22749,7 @@
     </message>
     <message>
       <source>Please enter a department name</source>
-      <translation>Informe o nome do departamento</translation>
+      <translation>Informe o nome do setor</translation>
     </message>
     <message>
       <source>Minimum 5 seconds</source>
@@ -22757,7 +22757,7 @@
     </message>
     <message>
       <source>Transfer department has to be different one than self</source>
-      <translation>Departamento de transferência tem de ser um diferente do que o atual</translation>
+      <translation>Setor de transferência tem de ser um diferente do que o atual</translation>
     </message>
     <message>
       <source>Please enter bot name!</source>
@@ -22812,7 +22812,7 @@
     <name>departament/editgroup</name>
     <message>
       <source>Please enter a department group name</source>
-      <translation>Por gentileza, digite o nome de um departamento</translation>
+      <translation>Por gentileza, digite o nome de um setor</translation>
     </message>
     <message>
       <source>Please enter a brand name</source>
@@ -22847,7 +22847,7 @@
     </message>
     <message>
       <source>Department</source>
-      <translation>Departamento </translation>
+      <translation>Setor </translation>
     </message>
     <message>
       <source>Nick</source>
@@ -22886,7 +22886,7 @@
     </message>
     <message>
       <source>In order to assign user all departments you have to provide  `departments` and `departments_read` argument.</source>
-      <translation>Para atribuir ao usuário todos os departamentos, você deve fornecer os argumentos `departments` e` departments_read`.</translation>
+      <translation>Para atribuir ao usuário todos os setores, você deve fornecer os argumentos `departments` e` departments_read`.</translation>
     </message>
     <message>
       <source>You have to choose one of required groups!</source>
@@ -23070,7 +23070,7 @@
     <name>chat/start</name>
     <message>
       <source>Department is required!</source>
-      <translation>Departamento Obrigatório</translation>
+      <translation>Setor Obrigatório</translation>
     </message>
     <message>
       <source>Disabled!</source>
@@ -23081,7 +23081,7 @@
     <name>chat/transferuser</name>
     <message>
       <source>has changed department to</source>
-      <translation>mudou departamento para</translation>
+      <translation>mudou setor para</translation>
     </message>
     <message>
       <source>from</source>
@@ -23089,7 +23089,7 @@
     </message>
     <message>
       <source>Chat department was changed to</source>
-      <translation>O chat departamento foi alterado para</translation>
+      <translation>O chat setor foi alterado para</translation>
     </message>
     <message>
       <source>has changed owner to</source>
@@ -23105,7 +23105,7 @@
     </message>
     <message>
       <source>Chat was assigned to selected department</source>
-      <translation>O chat foi atribuído ao departamento selecionado</translation>
+      <translation>O chat foi atribuído ao setor selecionado</translation>
     </message>
     <message>
       <source>Chat was assigned to selected user</source>
