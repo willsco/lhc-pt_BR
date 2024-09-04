@@ -9085,7 +9085,7 @@
     </message>
     <message>
       <source>Related mail tickets</source>
-      <translation>Bilhetes de correio relacionados</translation>
+      <translation>Entradas de e-mail relacionadas</translation>
     </message>
     <message>
       <source>Fetching related mails...</source>
@@ -9361,7 +9361,7 @@
     </message>
     <message>
       <source>No related mail tickets were found!</source>
-      <translation>Não foram encontrados tíquetes de correio relacionados!</translation>
+      <translation>Não foram encontrados entradas de e-mail relacionadas!</translation>
     </message>
     <message>
       <source>Information</source>
